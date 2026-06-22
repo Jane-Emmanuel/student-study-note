@@ -11,10 +11,10 @@
 
           "content":"Paste your complete note here.",
 
-          "audio":[
-            "audio/reproductive1.mp3",
-            "audio/reproductive2.mp3"
-          ]
+        "audio":[
+  "reproductive1.mp3",
+  "reproductive2.mp3"
+]
         },
 
         {
@@ -23,7 +23,7 @@
           "content":"Paste another note here.",
 
           "audio":[
-            "audio/male1.mp3"
+            "male1.mp3"
           ]
         }
 
