@@ -1,6 +1,6 @@
 let allLessons = [];
 
-fetch("data/notes.json")
+fetch("notes.json")
 
 .then(response => response.json())
 
